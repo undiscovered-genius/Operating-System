@@ -63,3 +63,6 @@ e)	Find whether given string is a palindrome or not
 f)	Print the reverse of the given string
 g)	Find the occurance of a character in the string (hint: using grep or wc)
 h)	Delete shortest and longest substring match
+
+# <a href="assignment-10.cpp">Assignment 10</a>
+Implement CPU scheduling algorithm (First Come First Serve, SJF, Priority Scheduling, Round Robin)
